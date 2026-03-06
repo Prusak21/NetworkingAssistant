@@ -1,0 +1,53 @@
+Jaka jest domyślna maska podsieci dla klasy C (format dziesiętny)?|255.255.255.0
+Jakim poleceniem w Cisco wchodzi się w tryb uprzywilejowany?|enable
+Jaki jest adres broadcast dla sieci 192.168.1.0/24?|192.168.1.255
+Jaka jest maska domyślna dla klasy A?|255.0.0.0
+Jaka jest maska domyślna dla klasy B?|255.255.0.0
+Jaka jest maska domyślna dla klasy C?|255.255.255.0
+Ile bitów ma adres IPv4?|32
+Ile bitów ma adres IPv6?|128
+Ile bitów ma adres MAC?|48
+Która warstwa OSI odpowiada za routing (podaj numer)?|3
+Która warstwa OSI odpowiada za kable i sygnały (podaj numer)?|1
+Która warstwa OSI odpowiada za adresy MAC (podaj numer)?|2
+Jaki jest port dla protokołu HTTP?|80
+Jaki jest port dla protokołu HTTPS?|443
+Jaki jest port dla protokołu SSH?|22
+Jaki jest port dla protokołu Telnet?|23
+Jaki jest port dla protokołu DNS?|53
+Komenda Cisco do wejścia w tryb uprzywilejowany?|enable
+Komenda Cisco do wejścia w tryb konfiguracji?|configure terminal
+Komenda Cisco do wyświetlenia konfiguracji bieżącej?|show running-config
+Komenda Cisco do zapisania konfiguracji?|write memory
+Jaki jest adres broadcast dla 192.168.1.0/24?|192.168.1.255
+Jaki jest pierwszy użyteczny host w sieci 10.0.0.0/8?|10.0.0.1
+Ile hostów użytkowych mieści się w masce /30?|2
+Ile hostów użytkowych mieści się w masce /24?|254
+Ile hostów użytkowych mieści się w masce /25?|126
+Jaki prefiks CIDR odpowiada masce 255.255.255.192?|26
+Jaki prefiks CIDR odpowiada masce 255.255.255.128?|25
+Jaki prefiks CIDR odpowiada masce 255.255.255.252?|30
+Czy adres 127.0.0.1 jest routowalny w internecie (tak/nie)?|nie
+Czy adres 192.168.1.1 jest adresem prywatnym (tak/nie)?|tak
+Czy adres 8.8.8.8 jest adresem prywatnym (tak/nie)?|nie
+Protokół do automatycznego przydzielania IP?|DHCP
+Protokół do tłumaczenia nazw domen na IP?|DNS
+Protokół do tłumaczenia adresów prywatnych na publiczne?|NAT
+Jak nazywa się jednostka danych w warstwie 2?|ramka
+Jak nazywa się jednostka danych w warstwie 3?|pakiet
+Jak nazywa się jednostka danych w warstwie 4?|segment
+Jaki jest adres pętli zwrotnej (localhost) IPv4?|127.0.0.1
+Jaki jest adres pętli zwrotnej IPv6?|::1
+Jaki jest broadcast dla sieci 10.10.10.0/30?|10.10.10.3
+Ile podsieci uzyskamy pożyczając 1 bit?|2
+Ile podsieci uzyskamy pożyczając 2 bity?|4
+Ile podsieci uzyskamy pożyczając 3 bity?|8
+Maska /28 to w formacie dziesiętnym końcówka...?|240
+Maska /27 to w formacie dziesiętnym końcówka...?|224
+Maska /26 to w formacie dziesiętnym końcówka...?|192
+Maska /29 to w formacie dziesiętnym końcówka...?|248
+Skrót od Local Area Network?|LAN
+Skrót od Wide Area Network?|WAN
+Skrót od Virtual Local Area Network?|VLAN
+Komenda do sprawdzenia IP w Windows?|ipconfig
+Komenda do sprawdzenia trasy pakietu w Windows?|tracert

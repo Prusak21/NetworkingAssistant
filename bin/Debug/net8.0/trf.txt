@@ -1,0 +1,15 @@
+version 15.1
+service timestamps debug datetime msec
+service timestamps log datetime msec
+enable secret fds
+service password-encryption
+username rew privilege 15 secret fsd
+ip domain-name lan.local
+crypto key generate rsa modulus 1024
+line vty 0 4
+ transport input ssh
+ login local
+ exit
+!
+end
+write memory

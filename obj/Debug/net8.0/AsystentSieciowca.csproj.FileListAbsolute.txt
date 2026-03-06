@@ -1,0 +1,14 @@
+C:\Users\kacpe\source\repos\AsystentSieciowca\AsystentSieciowca\bin\Debug\net8.0\AsystentSieciowca.exe
+C:\Users\kacpe\source\repos\AsystentSieciowca\AsystentSieciowca\bin\Debug\net8.0\AsystentSieciowca.deps.json
+C:\Users\kacpe\source\repos\AsystentSieciowca\AsystentSieciowca\bin\Debug\net8.0\AsystentSieciowca.runtimeconfig.json
+C:\Users\kacpe\source\repos\AsystentSieciowca\AsystentSieciowca\bin\Debug\net8.0\AsystentSieciowca.dll
+C:\Users\kacpe\source\repos\AsystentSieciowca\AsystentSieciowca\bin\Debug\net8.0\AsystentSieciowca.pdb
+C:\Users\kacpe\source\repos\AsystentSieciowca\AsystentSieciowca\obj\Debug\net8.0\AsystentSieciowca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\source\repos\AsystentSieciowca\AsystentSieciowca\obj\Debug\net8.0\AsystentSieciowca.AssemblyInfoInputs.cache
+C:\Users\kacpe\source\repos\AsystentSieciowca\AsystentSieciowca\obj\Debug\net8.0\AsystentSieciowca.AssemblyInfo.cs
+C:\Users\kacpe\source\repos\AsystentSieciowca\AsystentSieciowca\obj\Debug\net8.0\AsystentSieciowca.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\source\repos\AsystentSieciowca\AsystentSieciowca\obj\Debug\net8.0\AsystentSieciowca.dll
+C:\Users\kacpe\source\repos\AsystentSieciowca\AsystentSieciowca\obj\Debug\net8.0\refint\AsystentSieciowca.dll
+C:\Users\kacpe\source\repos\AsystentSieciowca\AsystentSieciowca\obj\Debug\net8.0\AsystentSieciowca.pdb
+C:\Users\kacpe\source\repos\AsystentSieciowca\AsystentSieciowca\obj\Debug\net8.0\AsystentSieciowca.genruntimeconfig.cache
+C:\Users\kacpe\source\repos\AsystentSieciowca\AsystentSieciowca\obj\Debug\net8.0\ref\AsystentSieciowca.dll
